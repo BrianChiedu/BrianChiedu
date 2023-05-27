@@ -9,7 +9,7 @@
   <li>🔭 I’m currently working on: Bsc in Computer Science and Data science projects. </li>
   <li> 🌱 I’m currently learning: R and Algorithms.</li>
   <li> 🤔 I’m currently open to: SWE Job/Intership opportunites.</li>
-  <li>💬 Ask me about anything: brianchukwuisiocha@gmail.com </li>
+  <li>💬 Ask me about anything <a href= 'brianchukwuisiocha@gmail.com' alt="email">here</a></li>
   <li>⚡ Fun fact: I love Coding(💻), Traveling(🌍), and DJ-n(🎧).</li>
 </ul>
 
