@@ -10,7 +10,7 @@
   <li> 🌱 I’m currently learning: R and Algorithms.</li>
   <li> 🤔 I’m currently open to: SWE Job/Intership opportunites.</li>
   <li>💬 Ask me about anything: brianchukwuisiocha@gmail.com </li>
-  <li>⚡ Fun fact: I love Coding(💻), Traveling(🌍), and DJ-n(📷).</li>
+  <li>⚡ Fun fact: I love Coding(💻), Traveling(🌍), and DJ-n(🎧).</li>
 </ul>
 
-<a src= 'https://readme-jokes.vercel.app/api'></a>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
