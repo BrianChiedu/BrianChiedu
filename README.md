@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1>I am Brian, a multi-faceted computer scientist, presidential scholar, and Computer Science Major passionate about everything computer science: from designing and developing scalable web applications to building IOS and Android applications as well as data manipulation, exploration, and analysis.</h1>
+<h2>I am Brian, a multi-faceted computer scientist, presidential scholar, and Computer Science Major passionate about everything computer science: from designing and developing scalable web applications to building IOS and Android applications as well as data manipulation, exploration, and analysis.</h2>
 
 
 <p>Here are some ideas to get you started:</p>
