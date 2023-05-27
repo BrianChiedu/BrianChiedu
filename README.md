@@ -13,4 +13,5 @@
   <li>⚡ Fun fact: I love Coding(💻), Traveling(🌍), and DJ-n(🎧).</li>
 </ul>
 
+<p>Have a good day :)</p>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
